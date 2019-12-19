@@ -1,0 +1,14 @@
+Topic: I want to create completely unattended installation of Iso(kickstart).
+
+-> I have created VMs using ansible scripts which creates VMs with iso image attached to it 
+but when ever we start those machines they starts from boot options I want to automate that process of installation
+
+I have followed these sites to create kickstart iso image but there is some problem with it.
+
+1. http://gyk.lt/ubuntu-14-04-desktop-unattended-installation/     
+2. http://gyk.lt/ubuntu-16-04-desktop-unattended-installation/
+    - i have created kickstart.cfg file copied to iso folder
+    - and preseed file too
+
+I will try this process to see if it works
+3. https://askubuntu.com/questions/806820/how-do-i-create-a-completely-unattended-install-of-ubuntu-desktop-16-04-1-lts
